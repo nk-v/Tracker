@@ -1,0 +1,9 @@
+*.weights
+*.t7
+*.mp4
+*.avi
+*.so
+*.txt
+__pycache__/
+build/
+*.egg-info
